@@ -1,0 +1,390 @@
+{
+  "profile": {
+    "prenom": "Cherif",
+    "nom": "BALI",
+
+    "titre": {
+      "fr": "Ingénieur Systèmes Embarqués",
+      "en": "Embedded Systems Engineer"
+    },
+
+    "date_naissance": "01/01/1994",
+
+    "secteurs": {
+      "fr": "Aéronautique, Spatial, R&D",
+      "en": "Aerospace, Space, R&D"
+    },
+
+    "location": "City, Country",
+
+    "email": "xxxx@email.com",
+    "phone": "+33 xx xx xx xx",
+    "linkedin": "https://www.linkedin.com/in/xxxx",
+
+    "summary": {
+      "fr": "Ingénieur systèmes embarqués spécialisé en développement logiciel bas niveau, intégration, validation et moyens de test pour systèmes critiques. Expérience dans les environnements aéronautiques et industriels, avec une forte expertise en C/C++, débogage, analyse temporelle, RTOS et intégration continue.",
+
+      "en": "Embedded Systems Engineer specialized in low-level software development, integration, validation and test environments for critical systems. Experience in aerospace and industrial environments, with strong expertise in C/C++, debugging, Time analysis, RTOS and continuous integration."
+    }
+  },
+
+  "competences": [
+    {
+      "nom": {
+        "fr": "C",
+        "en": "C"
+      },
+      "niveau": 4,
+      "max": 5
+    },
+    {
+      "nom": {
+        "fr": "Systèmes embarqués",
+        "en": "Embedded Systems"
+      },
+      "niveau": 4,
+      "max": 5
+    },
+    {
+      "nom": {
+        "fr": "Électronique",
+        "en": "Electronics"
+      },
+      "niveau": 4,
+      "max": 5
+    },
+    {
+      "nom": {
+        "fr": "Travail en équipe",
+        "en": "Teamwork"
+      },
+      "niveau": 4,
+      "max": 5
+    },
+    {
+      "nom": {
+        "fr": "C++",
+        "en": "C++"
+      },
+      "niveau": 3,
+      "max": 5
+    },
+    {
+      "nom": {
+        "fr": "Python",
+        "en": "Python"
+      },
+      "niveau": 4,
+      "max": 5
+    }
+  ],
+
+  "domaines_cles": {
+    "Méthodologies": [
+      "Agile Scrum",
+      "Cycle en V",
+      "DO-178"
+    ],
+
+    "Langages": [
+      "C",
+      "C++",
+      "Python",
+      "Java",
+      "Shell/Bash"
+    ],
+
+    "Protocoles de communication": [
+      "AFDX",
+      "A429",
+      "A615",
+      "I2C",
+      "SPI",
+      "UART",
+      "CAN"
+    ],
+
+    "RTOS / RTK": [
+      "FreeRTOS",
+      "ASTERIOS"
+    ],
+
+    "Outils & Debug": [
+      "GDB",
+      "Trace32",
+      "RobotFramework",
+      "Jenkins",
+      "Gradle",
+      "IAR Workbench",
+      "VS Code",
+      "Eclipse",
+      "Git",
+      "SVN"
+    ],
+
+    "Modélisation & Simulation": [
+      "MATLAB",
+      "Simulink"
+    ],
+
+    "IA / ML": [
+      "Machine Learning",
+      "Neural Networks",
+      "TensorFlow",
+      "Scikit-learn"
+    ],
+
+    "Systèmes": [
+      "Linux",
+      "Windows"
+    ]
+  },
+
+  "education": [
+    {
+      "annee": "2017",
+
+      "diplome": {
+        "fr": "Master en Électronique",
+        "en": "Master's Degree in Electronics"
+      },
+
+      "etablissement": {
+        "fr": "École Nationale Polytechnique, Algérie",
+        "en": "National Polytechnic School, Algeria"
+      }
+    },
+
+    {
+      "annee": "2014",
+
+      "diplome": {
+        "fr": "Études d'Ingénieur",
+        "en": "Engineering Studies"
+      },
+
+      "etablissement": {
+        "fr": "Classe Préparatoire aux Grandes Écoles",
+        "en": "Preparatory Classes for Grandes Écoles"
+      }
+    }
+  ],
+
+  "languages": [
+    {
+      "name": {
+        "fr": "Français",
+        "en": "French"
+      },
+      "level": {
+        "fr": "Courant",
+        "en": "Fluent"
+      }
+    },
+
+    {
+      "name": {
+        "fr": "Anglais",
+        "en": "English"
+      },
+      "level": {
+        "fr": "Professionnel",
+        "en": "Professional"
+      }
+    },
+
+    {
+      "name": {
+        "fr": "Arabe",
+        "en": "Arabic"
+      },
+      "level": {
+        "fr": "Langue maternelle",
+        "en": "Native"
+      }
+    }
+  ],
+
+  "experiences": [
+    {
+      "titre": {
+        "fr": "Ingénieur d'Intégration Software",
+        "en": "Software Integration Engineer"
+      },
+
+      "entreprise": "AIRBUS",
+
+      "debut": "11/2023",
+
+      "fin": {
+        "fr": "Aujourd'hui",
+        "en": "Present"
+      },
+
+      "start_date": "2023-11-01",
+      "end_date": null,
+
+      "description": {
+        "fr": "Division des moyens de test physiques et simulés pour calculateurs de vol : adaptation d'outils, résolution d'anomalies (Jira) et support technique pour validation avionique.",
+
+        "en": "Physical and simulated test environments for flight computers: tool adaptation, anomaly resolution (Jira), and technical support for avionics validation."
+      },
+
+      "realisations": {
+        "fr": [
+          "<strong>Projet BSWTool :</strong> Portage des tests sur cible réelle, définition de tests MFC, débogage, rédaction documentaire/PRF et traçabilité des exigences.",
+
+          "<strong>Évolution des moyens de test :</strong> Développement d'outils, notamment AFDXTool pour la gestion des trames AFDX/Ethernet avionique liées aux commandes de vol IFCC.",
+
+          "<strong>Support & Qualité :</strong> Assistance aux utilisateurs et optimisation des campagnes de tests."
+        ],
+
+        "en": [
+          "<strong>BSWTool project:</strong> Porting of tests to real hardware targets, MFC test definition, debugging, documentation/PRF authoring and requirements traceability.",
+
+          "<strong>Test environment evolution:</strong> Development of tools, including AFDXTool for handling avionics AFDX/Ethernet frames related to IFCC flight controls.",
+
+          "<strong>Support & Quality:</strong> User support and optimization of test campaigns."
+        ]
+      },
+
+      "environnement": [
+        "C",
+        "C++",
+        "DO-178",
+        "Java",
+        "RobotFramework",
+        "Git",
+        "Gradle",
+        "Jenkins",
+        "GDB",
+        "Trace32",
+        "CI/CD",
+        "PowerPC MCU",
+        "Jira",
+        "Airbus Process"
+      ]
+    },
+
+    {
+      "titre": {
+        "fr": "Ingénieur de Recherche Embarqué",
+        "en": "Embedded Research Engineer"
+      },
+
+      "entreprise": "IRT SAINT EXUPÉRY",
+
+      "debut": "02/2023",
+
+      "fin": {
+        "fr": "07/2023",
+        "en": "07/2023"
+      },
+
+      "start_date": "2023-02-01",
+      "end_date": "2023-07-31",
+
+      "description": {
+        "fr": "Département Methods & Tools for Complex Systems : test software et analyse temporelle d'une application spatiale DAL B.",
+
+        "en": "Methods & Tools for Complex Systems department: software testing and timing analysis of a DAL B space application."
+      },
+
+      "realisations": {
+        "fr": [
+          "Analyse temporelle et identification des interférences sur cible multicœur Infineon AURIX-TriCore (6 cœurs).",
+
+          "Instrumentation du code, mesure des temps d'exécution et estimation du WCET pour certification DO-178."
+        ],
+
+        "en": [
+          "Timing analysis and interference identification on a 6-core Infineon AURIX TriCore target.",
+
+          "Code instrumentation, execution-time measurement and WCET estimation for DO-178 certification."
+        ]
+      },
+
+      "environnement": [
+        "C",
+        "AURIX TriCore TC399 MCU",
+        "ASTERIOS RTK",
+        "AURIX IDE",
+        "Trace32 Profiling/Debugging",
+        "Shell Scripting",
+        "SCADE",
+        "DO-178"
+      ]
+    },
+
+    {
+      "titre": {
+        "fr": "Embedded Systems Engineer - R&D",
+        "en": "Embedded Systems Engineer - R&D"
+      },
+
+      "entreprise": "SAMSUNG Home Appliances (SAMHA)",
+
+      "debut": "02/2020",
+
+      "fin": {
+        "fr": "01/2023",
+        "en": "01/2023"
+      },
+
+      "start_date": "2020-02-01",
+      "end_date": "2023-01-31",
+
+      "description": {
+        "fr": "Conception et développement de logiciels embarqués pour produits électroménagers au sein d'une équipe R&D HW/SW de 15 personnes.",
+
+        "en": "Design and development of embedded software for home appliances within a 15-person HW/SW R&D team."
+      },
+
+      "realisations": {
+        "fr": [
+          "Développement de logiciels embarqués Bare-metal et RTOS.",
+
+          "Codage des couches bas niveau HAL/BSP pour cartes cibles.",
+
+          "Analyse, débogage, tests unitaires, fonctionnels et intégration continue.",
+
+          "Test/validation des cartes électroniques et interfaçage pluridisciplinaire (Mécanique, Laboratoire, Qualité, Certification).",
+
+          "Benchmarking, reverse engineering et métrologie."
+        ],
+
+        "en": [
+          "Development of bare-metal and RTOS embedded software.",
+
+          "Implementation of low-level HAL/BSP layers for target boards.",
+
+          "Analysis, debugging, unit and functional testing, and continuous integration.",
+
+          "Electronic board testing/validation and cross-functional collaboration with Mechanical, Laboratory, Quality and Certification teams.",
+
+          "Benchmarking, reverse engineering and measurement."
+        ]
+      },
+
+      "environnement": [
+        "C",
+        "C++",
+        "Python",
+        "V-Model",
+        "Renesas MCU",
+        "STM32 MCU",
+        "RTOS",
+        "IAR IDE",
+        "SVN",
+        "Git",
+        "I2C",
+        "SPI",
+        "UART",
+        "HAL/BSP",
+        "PCB Design",
+        "SolidWorks"
+      ]
+    }
+  ]
+}
+
